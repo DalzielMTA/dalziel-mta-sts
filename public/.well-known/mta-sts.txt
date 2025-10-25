@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: cluster1.eu.messagelabs.com
 mx: cluster1a.eu.messagelabs.com
 max_age: 604800
